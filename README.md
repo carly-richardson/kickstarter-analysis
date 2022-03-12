@@ -1,5 +1,4 @@
-**#An Analysis of Kickstarter Campaigns**
-
+**#An Analysis of Kickstarter Campaigns**---
 _Performing analysis on Kickstarter data to uncover trends_
 
 **##My Findings**
@@ -7,6 +6,7 @@ _Performing analysis on Kickstarter data to uncover trends_
 *May launched the highest number of successful crowdfunding campaigns, in general, and specifically for US plays.
 
 *The average goal of successful campaigns is $5,049.
+
 *The average goal of failed campaigns is $10,554. However, the mean and median pledged amount of failed campaigns is also significantly lower than that of successful campaigns. This indicates that the amount of the goal was not the only reason they were not successful.
 
 ![OutcomesLaunchDateChart](https://user-images.githubusercontent.com/100643519/158035286-05424ab2-5f2f-4c62-bccc-23b78d558b80.png)

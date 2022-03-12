@@ -1,5 +1,6 @@
 **#An Analysis of Kickstarter Campaigns**
----_Performing analysis on Kickstarter data to uncover trends_
+
+_Performing analysis on Kickstarter data to uncover trends_
 
 **##My Findings**
 

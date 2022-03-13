@@ -22,4 +22,4 @@
 
 - A limitation to this dataset is that it is only using data from Kickstarter. It doesn't take into account the outcomes of any projects that received funding through other sources.
 
-- We could create additional tables or graphs to visualize the number of successful, failed, and canceled projects based on their goal range and when they were launched.
+- We could create additional tables or graphs that combined the funding goals and launch dates.
